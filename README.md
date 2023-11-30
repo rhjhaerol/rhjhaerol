@@ -3,7 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Rahaji+Jhaerol;" />
 </h1>
-<h3 align="center">A passionate in Data Science | Data Analyst</h3>
+<h3 align="center">Interested in Data Analyst | Data Scientist | Fullstack Developer</h3>
+<p align="center">Motivated and results-driven Informatics Engineering graduate seeking a challenging position within a large organisation as a Data Analyst or Data Scientist or Fullstack Developer. Eager to leverage my technical expertise and problem-solving skills to extract meaningful insights from data and build innovative solutions.</p>
 
 <div align="center"> 
   <a href="mailto:rhjhaerol@gmail.com">
